@@ -1,5 +1,5 @@
 # Java Form input Validator
-Simple form input validator for your Java application.
+Simple form input validator for your Java application. It can be used in your Android ViewModel for example to validate your form inputs
 
 ### Tests
 
